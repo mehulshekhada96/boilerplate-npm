@@ -11,5 +11,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mehulshekhada96/boilerplate-npm"
-	}
+	},
+	"homepage":"https://github.com/mehulshekhada96/boilerplate-npm/views/index.html"
 }
